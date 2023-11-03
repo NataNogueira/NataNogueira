@@ -12,7 +12,7 @@
 ### About me:
 Hi, my name is Natã, i'm 23 years old and i'm graduating in computer science from Unicarioca University since 2021. I'm currently, at interning in the area of data science at the __National Bank for Economic and Social Development__ of Rio de Janeiro (BNDES).
 
-Currently, I work using python language, but I've knowledge in other types, such as: C#, C, JavaScript, SQL...
+Currently, I work by data analysis using notebooks python and SQL queries to assist in data processing, but I've knowledge in other types, such as: C#, C, JavaScript...
 
 Here you will find some of my personal projects, whether they are from some college work, or made by hobby, I hope you like it and feel free to contribuite ideas.
 
@@ -31,7 +31,7 @@ I accept criticism, as long as it is constructive 😉
 ### Sobre mim:
 Oi, meu nome é Natã, tenho 23 anos e sou graduando em ciência da computação pela universidade Unicarioca desde 2021. Atualmente, estou estagiando na àrea de ciência de dados no __Banco Nacional de Desenvolvimento Econômico e Social__ do Rio de Janeiro (BNDES).
 
-Atualmente, Trabalho usando linguagem python, mas tenho conhecimento em outros tipos, como: C#, C, JavaScript, SQL...
+Atualmente, Trabalho com análise de dados usando notebooks python e consultas SQL para auxiliar no tratamento dos dados, mas tenho conhecimento em outros tipos, como: C#, C, JavaScript...
 
 Aqui você encontra alguns de meus projetos pessoais, sejam eles de algum trabalho de faculdade, ou por hobbie, espero que goste e sinta-se à vontade para contribuir com ideias.
 
