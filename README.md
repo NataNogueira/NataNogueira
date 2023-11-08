@@ -43,12 +43,12 @@ Eu aceito críticas, desde que sejam construtivas 😉
 - Pronomes: Ele / Dele
 - Fato Interessante: Tenho facilidade em aprender.
 
-### Stats / Status:
-Aqui ficará um status da minha jornada no github.
-<div> 
+<h3 align="center"> Stats / Status:
+<div align="center"> 
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=NataNogueira&show_icons=true&theme=tokyonight"/>
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NataNogueira&langs_count=2&theme=tokyonight"/>
 </div>
+</h3>
 
 ##
 <h3 align="center">
