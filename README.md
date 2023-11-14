@@ -9,7 +9,7 @@
 
 `English`
 
-### About me:
+### About of me:
 Hi, my name is Natã, i'm 23 years old and i'm graduating in computer science from Unicarioca University since 2021. I'm currently, at interning in the area of data science at the __National Bank for Economic and Social Development__ of Rio de Janeiro (BNDES).
 
 Currently, I work by data analysis using notebooks python and SQL queries to assist in data processing, but I've knowledge in other types, such as: C#, C, JavaScript...
