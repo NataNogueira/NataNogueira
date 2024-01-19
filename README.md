@@ -45,7 +45,7 @@ Eu aceito críticas, desde que sejam construtivas 😉
 
 <h3 align="center"> Stats / Status:
 <div align="center"> 
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=NataNogueira&show_icons=true&theme=tokyonight"/>
+<!--   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=NataNogueira&show_icons=true&theme=tokyonight"/> -->
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NataNogueira&langs_count=2&theme=tokyonight"/>
 </div>
 </h3>
